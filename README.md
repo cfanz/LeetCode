@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|8  |[stringToInteger](https://leetcode.com/problems/string-to-integer-atoi/description/)|[C++](./algorithms/cpp/stringToInteger/stringToInteger.cpp)|Medium|
 |7  |[reversInteger](https://leetcode.com/problems/reverse-integer/description/)|[C++](./algorithms/cpp/reversInteger/reversInteger.cpp)|Easy|
 |6  |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)| [C++](./algorithms/cpp/zigZagConversion/zigZagConversion.cpp)|Medium|
 |5  |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)| [C++](./algorithms/cpp/longestPalindromicSubstring/longestPalindromicSubstring.cpp)|Medium|
