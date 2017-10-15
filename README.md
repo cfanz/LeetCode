@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|9  |[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[C++](./algorithms/cpp/palindromeNumber/palindromeNumber.cpp)|Easy|
 |8  |[stringToInteger](https://leetcode.com/problems/string-to-integer-atoi/description/)|[C++](./algorithms/cpp/stringToInteger/stringToInteger.cpp)|Medium|
 |7  |[reversInteger](https://leetcode.com/problems/reverse-integer/description/)|[C++](./algorithms/cpp/reversInteger/reversInteger.cpp)|Easy|
 |6  |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)| [C++](./algorithms/cpp/zigZagConversion/zigZagConversion.cpp)|Medium|
