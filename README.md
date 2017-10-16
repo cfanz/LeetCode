@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|10 |[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[C++](./algorithms/cpp/regularExpressionMatching/regularExpressionMatching.cpp)|Hard|
 |9  |[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[C++](./algorithms/cpp/palindromeNumber/palindromeNumber.cpp)|Easy|
 |8  |[stringToInteger](https://leetcode.com/problems/string-to-integer-atoi/description/)|[C++](./algorithms/cpp/stringToInteger/stringToInteger.cpp)|Medium|
 |7  |[reversInteger](https://leetcode.com/problems/reverse-integer/description/)|[C++](./algorithms/cpp/reversInteger/reversInteger.cpp)|Easy|
