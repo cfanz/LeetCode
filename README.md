@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|13 |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[C++](./algorithms/cpp/romanToInteger/romanToInteger.cpp)|[Easy]|
 |12 |[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[C++](./algorithms/cpp/integerToRoman/integerToRoman.cpp)|[Medium]|
 |11 |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[C++](./algorithms/cpp/containerWithMostWater/containerWithMostWater.cpp)|Medium|
 |10 |[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[C++](./algorithms/cpp/regularExpressionMatching/regularExpressionMatching.cpp)|Hard|
